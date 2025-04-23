@@ -1,9 +1,7 @@
 {
   "name": "mermaid-ink-api",
   "version": "1.0.0",
-  "type": "module",
   "dependencies": {
     "lz-string": "^1.4.4"
   }
 }
-
